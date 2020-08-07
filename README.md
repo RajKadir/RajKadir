@@ -32,7 +32,7 @@
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RajKadir&show_icons=true&hide_border=true" />
+<img align="left" alt="RajKadir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RajKadir&show_icons=true&hide_border=true" />
 
 <!--
 - 🔭 I’m currently working on ...
