@@ -10,6 +10,12 @@
 
 <br />
 
+### Highest Qualification
+
+- (1st) BSc Computer Science
+
+<br />
+
 ### Tech Stack:
 
 - MERN
@@ -18,12 +24,6 @@
 - Python
 - C++/DirectX/Game Engine development
 - Data structures & Algorithms
-
-### Highest Qualification
-
-- (1st) BSc Computer Science
-
-<br/>
 
 ### Languages and Tools:
 
