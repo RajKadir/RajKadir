@@ -8,14 +8,6 @@
 - ⚡ Fun fact: I love to code day and night
 - 💬 Ask me: anything related to Motivation/JavaScript/TypeScript/C++/Java
 
-<br />
-
-### Highest Qualification
-
-- (1st) BSc Computer Science
-
-<br />
-
 ### Tech Stack:
 
 - MERN
