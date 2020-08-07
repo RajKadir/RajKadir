@@ -1,6 +1,6 @@
 ### Hi there, I'm Raj 👋
 
-## I'm a Software Developer
+## I'm a Full Stack Software Developer
 
 - 🔭 I’m currently working on a E-Commerce store web app!
 - 🌱 I’m currently continuously learning advanced full stack applications
@@ -31,6 +31,8 @@
 
 <br />
 <br />
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RajKadir&show_icons=true&hide_border=true" />
 
 <!--
 - 🔭 I’m currently working on ...
