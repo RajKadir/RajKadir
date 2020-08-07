@@ -2,10 +2,11 @@
 
 ## I'm a Software Developer
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning advanced full stack applications
+- 🔭 I’m currently working on a E-Commerce store web app!
+- 🌱 I’m currently continuously learning advanced full stack applications
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to code day and night and being healthy
+- ⚡ Fun fact: I love to code day and night
+- 💬 Ask me about how to stay motivated
 
 <!--
 - 🔭 I’m currently working on ...
