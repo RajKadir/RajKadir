@@ -1,12 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Raj 👋
+
+## I'm a Software Developer
+
+- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🌱 I’m currently learning advanced full stack applications
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to code day and night and being healthy
 
 <!--
-**RajKadir/RajKadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning advanced full stack
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
