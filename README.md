@@ -10,12 +10,17 @@
 
 <br />
 
+### Highest Qualification
+
+- 1st in BSc Computer Science
+
 ### Tech Stack:
 
 - MERN
-- Android Studio
+- Java/Android Studio
 - .NET
 - Python
+- C++/DirectX/Game Engine development
 
 <br/>
 
