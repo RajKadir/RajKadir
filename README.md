@@ -10,7 +10,7 @@
 
 ### Tech Stack:
 
-- MERN
+- MongoDB Express React NodeJS (MERN)
 - Java/Android Studio
 - .NET
 - Python
