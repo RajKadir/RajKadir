@@ -15,6 +15,7 @@
 - .NET
 - Python
 - C++/DirectX/Game Engine development
+- Unreal/Unity Engine developer
 - Data structures & Algorithms
 
 <br />
