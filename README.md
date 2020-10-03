@@ -14,7 +14,7 @@
 - PHP/MySQL
 - MongoDB Express React NodeJS (MERN)
 - Java/Android Studio
-- Python
+- Python / Django
 - MS SQL Server / PostgresSQL/ SQLite
 - Blitz3D, DarkBasic, DarkGDK developer
 - C++/DirectX/OpenGL/Game Engine development
