@@ -20,6 +20,18 @@
 - C++/DirectX/OpenGL/Game Engine development
 - Unreal/Unity Engine developer
 - Data structures & Algorithms
+- Competitive programming
+
+<br />
+
+### Secondary Stack:
+
+- Autodesk 3ds Max
+- Autodesk Maya
+- Photoshop/Illustrator
+- Fragmotion
+- Blender
+- Sony Vegas Pro/Premiere Pro
 
 <br />
 
