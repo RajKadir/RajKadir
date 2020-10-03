@@ -10,7 +10,7 @@
 
 ### Tech Stack:
 
-- C#.NET/ASP.NET
+- C#/ASP/.NET
 - PHP/MySQL
 - MongoDB Express React NodeJS (MERN)
 - Java/Android Studio
