@@ -10,11 +10,14 @@
 
 ### Tech Stack:
 
+- C#.NET/ASP.NET
+- PHP/MySQL
 - MongoDB Express React NodeJS (MERN)
 - Java/Android Studio
-- .NET
 - Python
-- C++/DirectX/Game Engine development
+- MS SQL Server / PostgresSQL/ SQLite
+- Blitz3D, DarkBasic, DarkGDK developer
+- C++/DirectX/OpenGL/Game Engine development
 - Unreal/Unity Engine developer
 - Data structures & Algorithms
 
