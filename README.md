@@ -20,6 +20,8 @@
 - C++/DirectX/OpenGL/Game Engine development
 - Unreal/Unity Engine developer
 - Data structures & Algorithms
+- Design Patterns
+- Clean code principles / SOLID
 - Competitive programming
 
 ### Secondary Stack:
