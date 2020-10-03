@@ -22,8 +22,6 @@
 - Data structures & Algorithms
 - Competitive programming
 
-<br />
-
 ### Secondary Stack:
 
 - Autodesk 3ds Max
