@@ -11,6 +11,7 @@
 ### Tech Stack:
 
 - C#/ASP/.NET
+- .NET Core 2.2, 3.1
 - PHP/MySQL
 - MongoDB Express React NodeJS (MERN)
 - Java/Android Studio
