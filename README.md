@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: advanced algorithms, datastructures & full stack apps
 - 🥅 2020 Goals: create several full stack applications
 - ⚡ Fun fact: I love to code day and night
-- 💬 Favourite quote: You should get to the point where anyone else would quit and you're not gunna stop there.
+- 💬 Favourite quote: You should get to the point where anyone else would quit and you're not gunna stop there
 
 ### Tech Stack:
 
