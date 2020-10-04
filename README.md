@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on: an E-Commerce web app!
 - 🌱 I’m currently learning: advanced algorithms, datastructures & full stack apps
-- 🥅 2020 Goals: contribute more to Open Source projects
+- 🥅 2020 Goals: create several full stack applications
 - ⚡ Fun fact: I love to code day and night
-- 💬 Ask me: anything related to Motivation/JavaScript/TypeScript/C++/Java
+- 💬 Favourite quote: You should get to the point where anyone else would quit and you're not gunna stop there.
 
 ### Tech Stack:
 
