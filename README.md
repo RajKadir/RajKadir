@@ -13,8 +13,10 @@
 - C#/ASP/.NET
 - .NET Core 2.2, 3.1
 - PHP/MySQL
+- Test Driven Development / Jest, Enzyme
 - MongoDB Express React NodeJS (MERN)
-- Java/Android Studio
+- Typescript
+- Java/Spring/Android Studio
 - Python / Django
 - MS SQL Server / PostgresSQL/ SQLite
 - Blitz3D, DarkBasic, DarkGDK developer
