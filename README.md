@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Software Developer
 
-- 🔭 I’m currently working on: Microservices in Webapplications
+- 🔭 I’m currently working on: Microservices in web applications
 - 🌱 I’m currently learning: Load balancing in servers
 
 <!--
