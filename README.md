@@ -3,7 +3,7 @@
 ## I'm a Full Stack Software Developer
 
 - 🔭 I’m currently working on: Microservices in Webapplications
-- 🌱 I’m currently learning: advanced algorithms, datastructures & full stack apps
+- 🌱 I’m currently learning: Load balancing in servers
 
 <!--
 - 🥅 2020 Goals: create several full stack applications
