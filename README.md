@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Software Developer
 
-- 🔭 I’m currently working on: an E-Commerce web app!
+- 🔭 I’m currently working on: Microservices in Webapplications
 - 🌱 I’m currently learning: advanced algorithms, datastructures & full stack apps
 
 <!--
