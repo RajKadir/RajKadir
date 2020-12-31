@@ -66,9 +66,9 @@ Still to learn
 
 <br />
 <br />
-
+<!--
 <img align="left" alt="RajKadir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RajKadir&show_icons=true&hide_border=true" />
-
+-->
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning advanced full stack
