@@ -2,10 +2,9 @@
 
 ## I'm a Full Stack Software Developer
 
-- 🔭 I’m currently working on: Microservices in web applications
-- 🌱 I’m currently learning: Load balancing in servers
-
 <!--
+- 🔭 I’m currently working on: 
+- 🌱 I’m currently learning: 
 - 🥅 2020 Goals: create several full stack applications
 - ⚡ Fun fact: I love to code day and night
 - 💬 Favourite quote: You should get to the point where anyone else would quit and you're not gunna stop there
