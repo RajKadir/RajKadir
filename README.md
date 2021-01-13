@@ -11,17 +11,21 @@
 - 💬 Favourite quote: You should get to the point where anyone else would quit and you're not gunna stop there
 -->
 
-### Tech Stack:
-
+### Primary Stack:
+- Java
 - C#/ASP/.NET
+- Python
 - .NET Core 2.2, 3.1
+- MongoDB Express React NodeJS (MERN)
+- JavaScript/Typescript
+
+### Secondary Stack:
 - PHP/MySQL
 - Test Driven Development / Jest, Enzyme
-- MongoDB Express React NodeJS (MERN)
-- Typescript
-- Java/Spring/Android Studio
-- Python / Django
-- MS SQL Server / PostgresSQL/ SQLite
+- Spring Boot
+- Android Studio
+- Django
+- Microsoft SQL Server / PostgresSQL/ SQLite
 - Blitz3D, DarkBasic, DarkGDK developer
 - C++/DirectX/OpenGL/Game Engine development
 - Unreal/Unity Engine developer
@@ -29,9 +33,6 @@
 - Design Patterns
 - Clean code principles / SOLID
 - Competitive programming
-
-### Secondary Stack:
-
 - Autodesk 3ds Max
 - Autodesk Maya
 - Photoshop/Illustrator
