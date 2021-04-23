@@ -1,6 +1,8 @@
 Note: My secondary stack includes technologies & methodologies that I have <b>used for at least 1 year</b>. I am confident that I could pick up where I left off and be able to do what I need to do in that specific technology.
 
 ### Programming Stack:
+- Python
+- Java
 - PHP
 - Python & Django
 - Blitz3D
