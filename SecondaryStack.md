@@ -1,0 +1,20 @@
+### Secondary Stack:
+- PHP/MySQL
+- Test Driven Development / Jest, Enzyme
+- Spring Boot
+- Android Studio
+- Django
+- Microsoft SQL Server / PostgresSQL/ SQLite
+- Blitz3D, DarkBasic, DarkGDK developer
+- C++/DirectX/OpenGL/Game Engine development
+- Unreal/Unity Engine developer
+- Data structures & Algorithms
+- Design Patterns
+- Clean code principles / SOLID
+- Competitive programming
+- Autodesk 3ds Max
+- Autodesk Maya
+- Photoshop/Illustrator
+- Fragmotion
+- Blender
+- Sony Vegas Pro/Premiere Pro
