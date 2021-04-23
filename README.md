@@ -19,7 +19,7 @@
 - JavaScript/Typescript
 
 ### Secondary Stack:
-<a href="https://github.com/RajKadir/RajKadir/blob/master/SecondaryStack.md">Full list</a>
+- <a href="https://github.com/RajKadir/RajKadir/blob/master/SecondaryStack.md">Full list</a>
 
 <br />
 
