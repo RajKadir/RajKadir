@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Software Developer
 
-### Primary Stack:
+### Tech Stack:
 - JavaScript/TypeScript
 - MongoDB Express React NodeJS (MERN Stack)
 - C# (ASP/.NET/.NET Core (2.2, 3.1))
