@@ -1,7 +1,5 @@
 ### Hi there, I'm Raj 👋
 
-## I'm a Full Stack Software Developer
-
 ### Tech Stack:
 - JavaScript/TypeScript
 - MongoDB Express React NodeJS (MERN Stack)
