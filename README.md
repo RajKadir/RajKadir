@@ -1,5 +1,3 @@
-### Hi there, I'm Raj 👋
-
 ### Tech Stack:
 - JavaScript/TypeScript
 - MongoDB Express React NodeJS (MERN Stack)
