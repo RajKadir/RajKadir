@@ -2,12 +2,11 @@ Note: My secondary stack includes technologies & methodologies that I have <b>us
 
 ### Programming Stack:
 - Python
-- Java
 - PHP
 - Python & Django
 - Blitz3D
-- C++
 - DarkBasic
+- C#/ASP.NET(.NET, .NETCORE)
 
 ### Databases
 - Microsoft SQL Server
